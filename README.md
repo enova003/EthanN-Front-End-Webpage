@@ -7,5 +7,5 @@ features my code for the webpage that I designed in Fall 2023.
 My webpage was designed using HTML, CSS, and JavaScript, and it can be found here:
 https://cs.odu.edu/~cs_enova003/
 
-The schools original homepage can be found using this link:
+The school's official homepage can be found using this link:
 https://hshawks.com/
